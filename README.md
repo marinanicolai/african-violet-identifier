@@ -17,5 +17,5 @@ This project uses AI to identify types of African Violet flowers based on upload
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/african-violet-classifier.git
+git clone https://github.com/marinanicolai/african-violet-classifier.git
 cd african-violet-classifier
