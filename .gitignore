@@ -10,7 +10,7 @@ build/
 *.whl
 
 # Virtual environment
-venv/
+backend/venv/
 env/
 .venv/
 
