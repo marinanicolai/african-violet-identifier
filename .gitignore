@@ -29,4 +29,4 @@ Thumbs.db
 # IDE-specific files
 .vscode/
 .idea/
-*.swp
+*.swpbackend/venv/
